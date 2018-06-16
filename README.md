@@ -1,2 +1,2 @@
 # datascience
-Analyzing data, for science.
+Analyzing data, for science. Boldly etc.
